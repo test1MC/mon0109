@@ -5,7 +5,7 @@
   Type="WebHelp2"
   Destinations=""
   GlossaryTermConversion="marked"
-  GetLatestBeforeCompile="false">
+  GetLatestBeforeCompile="true">
   <PrintedOutput
     CollapseMargins="true"
     GenerateTOCProxy="true"
